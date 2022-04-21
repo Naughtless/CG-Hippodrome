@@ -1,4 +1,4 @@
-package org.example;
+package com.github.naughtless.cg.hippodrome;
 
 public class Horse {
     //Properties

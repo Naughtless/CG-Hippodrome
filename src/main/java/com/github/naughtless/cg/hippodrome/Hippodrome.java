@@ -1,4 +1,4 @@
-package org.example;
+package com.github.naughtless.cg.hippodrome;
 
 import java.util.ArrayList;
 import java.util.Arrays;
